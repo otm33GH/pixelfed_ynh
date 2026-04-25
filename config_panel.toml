@@ -16,7 +16,7 @@ type = "number"
 bind = "null"
 
 
-[main.limit_size.photo_max_size]
+[main.limit_size.max_photo_size]
 ask.fr = "Taille limite d'une photo en Ko"
 ask.en = "photo max size limit (Kb)"
 type = "number"
